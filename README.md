@@ -19,7 +19,7 @@ CTFBox is a browser-based cybersecurity toolkit designed for ethical hackers, CT
 
 ## 📸 Screenshots
 
-Coming soon...
+![CTFBox2.0 Screenshot](public/ctf2.png)
 
 ---
 
@@ -65,17 +65,6 @@ npm install
 # Start development server
 npm run dev
 ```
-
----
-
-## 🌐 Future Plans
-
-- [ ] Add dark mode toggle
-- [ ] User tool ratings/reviews
-- [ ] Integration with AI for tool recommendations
-- [ ] Tool installation instructions or usage tips
-- [ ] Backend (optional) for user preferences and bookmarks
-
 ---
 
 ## 🧑‍🎓 Ideal For
@@ -93,12 +82,4 @@ npm run dev
 [MIT](LICENSE)
 
 ---
-
-## 🙌 Acknowledgements
-
-- Tool inspiration and data sourced from community-curated lists like SecTools, Awesome-Hacking, and GitHub security repositories.
-- Thanks to the open-source cybersecurity community for constantly building amazing tools.
-
----
-
 > Made with ❤️ by Tanishq Nama
